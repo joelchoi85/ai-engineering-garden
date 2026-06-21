@@ -5,6 +5,7 @@ tags:
   - 개념
 aliases:
   - QKV
+publish: true
 ---
 
 [[Attention]]의 3총사(도서관 비유). **Query**=내가 찾는 것, **Key**=각 단어의 검색용 이름표, **Value**=각 단어의 실제 내용.

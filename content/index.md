@@ -1,5 +1,6 @@
 ---
 title: AI Engineering 나머지공부
+publish: true
 ---
 
 # AI Engineering 나머지공부 🌱

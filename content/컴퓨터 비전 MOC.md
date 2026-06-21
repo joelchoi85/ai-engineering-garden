@@ -2,6 +2,7 @@
 title: 컴퓨터 비전 MOC
 tags:
   - MOC
+publish: true
 ---
 
 # 컴퓨터 비전 🗺️

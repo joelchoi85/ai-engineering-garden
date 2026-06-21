@@ -3,6 +3,7 @@ title: Optimizer
 tags:
   - 딥러닝
   - 개념
+publish: true
 ---
 
 기본 [[경사하강법]]의 약점(안장점에 갇힘, 지그재그 진동)을 고친 것.

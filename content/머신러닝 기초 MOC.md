@@ -2,6 +2,7 @@
 title: 머신러닝 기초 MOC
 tags:
   - MOC
+publish: true
 ---
 
 # 머신러닝 기초 🗺️

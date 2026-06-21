@@ -2,6 +2,7 @@
 title: LSTM
 tags: [딥러닝, RNN, 개념]
 aliases: [Long Short-Term Memory]
+publish: true
 ---
 
 기본 RNN의 장기 의존성 문제를 게이트로 푼 모델. 핵심은 [[Cell State]]라는 별도 메모장.

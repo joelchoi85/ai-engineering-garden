@@ -2,6 +2,7 @@
 title: 네트워크와 NLP MOC
 tags:
   - MOC
+publish: true
 ---
 
 # 네트워크 & NLP/LLM 🗺️

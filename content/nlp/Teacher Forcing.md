@@ -3,6 +3,7 @@ title: Teacher Forcing
 tags:
   - NLP
   - 개념
+publish: true
 ---
 
 [[Seq2Seq]] 학습 트릭. Decoder가 뭘 뱉었든 무시하고 **다음 입력으로 정답 단어**를 넣어준다. 초반에 첫 단추가 틀려도 다음이 정답에서 출발해 학습이 안정적.

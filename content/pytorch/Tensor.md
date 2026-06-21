@@ -3,6 +3,7 @@ title: Tensor
 tags:
   - PyTorch
   - 개념
+publish: true
 ---
 
 PyTorch의 다차원 배열. [[NumPy]] 배열과 거의 같지만 두 가지가 더 있다: **[[Autograd]]**(자동 미분), **GPU 가속**(`.to(device)`).

@@ -1,6 +1,7 @@
 ---
 title: Cell State
 tags: [딥러닝, RNN, 개념]
+publish: true
 ---
 
 [[LSTM]]의 장기 기억 전용 상태 $C_t$. 핵심은 갱신이 곱셈이 아니라 **더하기**라는 것:

@@ -2,6 +2,7 @@
 title: 딥러닝 MOC
 tags:
   - MOC
+publish: true
 ---
 
 # 딥러닝 기초 🗺️

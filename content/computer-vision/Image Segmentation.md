@@ -5,6 +5,7 @@ tags:
   - 개념
 aliases:
   - 세그멘테이션
+publish: true
 ---
 
 박스를 넘어 **픽셀 하나하나에 라벨**. 세 종류: **semantic**(클래스만), **instance**(개체까지 구분), **panoptic**(둘 통합).

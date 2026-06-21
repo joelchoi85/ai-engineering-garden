@@ -4,6 +4,7 @@ tags:
   - NLP
   - 모델
   - 개념
+publish: true
 ---
 
 같은 [[Transformer]] 블록, 다른 조립:

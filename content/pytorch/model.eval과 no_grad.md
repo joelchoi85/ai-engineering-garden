@@ -3,6 +3,7 @@ title: model.eval과 no_grad
 tags:
   - PyTorch
   - 개념
+publish: true
 ---
 
 추론할 때 둘 다 쓰는 게 규칙(다른 일을 함):

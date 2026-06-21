@@ -3,6 +3,7 @@ title: CNN 발전사
 tags:
   - 딥러닝
   - 개념
+publish: true
 ---
 
 각 모델의 혁신이 의외로 짧은 한 줄:

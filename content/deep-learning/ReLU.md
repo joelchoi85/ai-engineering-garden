@@ -2,6 +2,7 @@
 title: ReLU
 tags: [딥러닝, 개념, 활성화함수]
 aliases: [Rectified Linear Unit]
+publish: true
 ---
 
 $\text{ReLU}(x) = \max(0, x)$ — 음수면 0, 양수면 그대로. 가장 널리 쓰이는 [[활성화 함수]].
