@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: ko-KR
-  baseUrl: joelchoi85.github.io/ai-engineering-garden
+  baseUrl: YOURNAME.github.io/ai-engineering-garden  # ← GitHub 사용자명/레포명으로 교체
   ignorePatterns:
     - private
     - templates
