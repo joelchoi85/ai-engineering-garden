@@ -7,7 +7,7 @@ tags:
 publish: true
 ---
 
-mean Average Precision. [[객체 인식]]의 표준 평가 점수.
+mean Average Precision. [[객체 인식|Object Detection]]모델의 성능을 평가하는 표준 지표.
 
 먼저 각 클래스마다 [[Precision과 Recall]] 곡선의 아래 넓이(Average Precision)를 구하고, 모든 클래스에 대해 평균낸다. 박스가 "맞았다"의 기준은 [[IoU]] 임계값으로 정하는데, COCO 벤치마크는 IoU 0.5부터 0.95까지 여러 임계값의 평균(`mAP@0.5:0.95`)을 쓴다.
 
